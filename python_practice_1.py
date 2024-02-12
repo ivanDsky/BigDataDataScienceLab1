@@ -1,0 +1,1 @@
+print("Ivan Dobrovolskyi, Group-6")
